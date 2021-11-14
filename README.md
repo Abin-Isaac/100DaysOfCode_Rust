@@ -1,4 +1,4 @@
-# 100DaysOfCode_Rust
+# First day from 100 Days Of Code in Rust
 
 First day 
 We are using a main function here, seems like every rust program has this Referee here 
