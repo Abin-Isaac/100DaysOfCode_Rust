@@ -21,5 +21,7 @@ Multi line comments should start with  /* and end with */
 
 Doc comment should start and end with ///
 
-Thats it..Run the code here 
+Thats it..
+
+Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=26441c7be90bc0de62c2fad881e895ba
