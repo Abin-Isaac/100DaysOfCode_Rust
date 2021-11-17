@@ -27,3 +27,15 @@ Thats it..
 
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=26441c7be90bc0de62c2fad881e895ba
+
+## Third day 
+
+Variables are a vital point in every prg. loanguage. Here we have some of them like : Numbers, Text and Boolean etc
+
+Here you can define type or Rust will take it automatically and Rust has lot of size options with the type like in Numpy...felt like I reached numpy :)
+
+Overflow will happen if you put more things than space...so just keep that in mind !
+
+Run the code here 
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=33ddaf39b8410a977ddf4217bbc9188f
+
