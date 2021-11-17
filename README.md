@@ -1,6 +1,6 @@
 # 100 Days Of Code in Rust
 
-## Learning Source : https://www.w3adda.com/rust-tutorial/rust-comments
+## Learning Source : https://www.w3adda.com/rust-tutorial
 
 ## First day 
 We are using a main function here, seems like every rust program has this Referee here 
