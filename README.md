@@ -39,11 +39,11 @@ Here you can define type or Rust will take it automatically and Rust has lot of 
 Overflow will happen if you put more things than space...so just keep that in mind !
 
  4 ways to declare variable in Rust:-
-    let a; // Declaration without type
-    let b : i32; // Declaration with  type
-    let c: i32 = 10; // Declaration with initialization with type
-    let d = 20; // Declaration with initialization with type inference
-
+1) let a; // Declaration without type
+2) let b : i32; // Declaration with  type
+3) let c: i32 = 10; // Declaration with initialization with type
+4) let d = 20; // Declaration with initialization with type inference
+    
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ac1c30534ff8f6c2d8b9add960a08096
 
