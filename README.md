@@ -46,3 +46,14 @@ Overflow will happen if you put more things than space...so just keep that in mi
 
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ac1c30534ff8f6c2d8b9add960a08096
+
+## Fourth day 
+
+Every variable in Rust is immutable. never dare to change any one !
+
+If you want you can created mutable varaibles using mut keyword
+
+and if you reassign any mutable variables without usage then Rust can give you a waring...so dont waste resources..OKAY ?
+
+Run the code here 
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=581ded6c9c86f4db38abb3945529f5bf
