@@ -57,3 +57,13 @@ and if you reassign any mutable variables without usage then Rust can give you a
 
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=581ded6c9c86f4db38abb3945529f5bf
+
+## Fifth day 
+
+You need to use {} to print variables and this is called "String Interpolation"
+
+In String interpolation the compiler understands by {} and after the comma come the argument which is interpolated
+
+Run the code here 
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=652b62c4d811dc10ea4dfd8a76d50647
+
