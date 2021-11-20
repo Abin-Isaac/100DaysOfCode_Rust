@@ -67,3 +67,13 @@ In String interpolation the compiler understands by {} and after the comma come 
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=652b62c4d811dc10ea4dfd8a76d50647
 
+## Sixth day 
+Using Const keyword - Lets create constants
+1) const A : i32 = 20 // Capitals and data type are required otherwise you will get a warning
+2) No fixed address for a constant variable
+3) Lives for entire life time of program
+4) Finally unchangable as we all know
+
+Run the code here 
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e7ccbccaf6e19aa17bd34336dc27c6b1
+
