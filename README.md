@@ -77,3 +77,10 @@ Using Const keyword - Lets create constants
 Run the code here 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e7ccbccaf6e19aa17bd34336dc27c6b1
 
+## Seventh day --- Using if statement
+
+Run the code here 
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=118128fb45b7b31f8982360fbd79f7af
+
+
+
